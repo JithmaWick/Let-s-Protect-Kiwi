@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(78, 25, 18);
+    margin: 0%;
+}
+
+#main-title {
+    text-align: center;
+
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(https://img.freepik.com/free-photo/landscape-tropical-green-forest_181624-30814.jpg?w=740&t=st=1699288841~exp=1699289441~hmac=13067bffc88ba359eceaecafa9be73c2d43cc56192bd6f6184fa1588df1daaf4);
+    -webkit-text-stroke: 0.5px rgba(128, 128, 128, 0.658);
+    font-size: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 0%;
+}
+
+#sci-name {
+    font-size: 25px;
+    color: #c4d3f5;
+    -webkit-text-stroke:null;
+
+
+}
