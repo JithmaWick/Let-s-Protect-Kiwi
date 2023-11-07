@@ -19,7 +19,7 @@ body {
 #sci-name {
     font-size: 25px;
     color: #c4d3f5;
-    -webkit-text-stroke:null;
+    -webkit-text-stroke: null;
 
 
 }
@@ -30,24 +30,130 @@ body {
     margin-right: 60px;
     margin-top: 30px;
     font-family: 'Times New Roman', Times, serif;
-    border: 1px; 
-    border-color: black;
 
 }
 
 #intro-para-bold {
-   color: crimson;
+    color: crimson;
 }
+
 .kiwi-image {
     width: 300px;
     height: 400px;
-    margin: 4%;
-    margin-top: 2%;
-    margin-bottom: 2%;
-    
+    margin: 2%;
 }
+
 #image-div {
     padding-left: 50px;
     padding-right: 50px;
     background-color: rgb(169 163 102);
+}
+
+table {
+    margin-top: 25px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+#taxone-row {
+    text-align: center;
+    vertical-align: text-top;
+}
+
+#tbl-col-1 {
+    width: 70%;
+}
+
+#tbl-col-2 {
+    width: 30%;
+    background-color: #37bb1d87;
+    text-align: center;
+    vertical-align: text-top;
+}
+
+.desc-para {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    margin: 50px;
+}
+
+.sub-topic {
+    font-size: 35px;
+}
+
+.img-icon {
+    width: 50px;
+    height: 50px;
+}
+
+.taxone {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#taxone-topic {
+    font-size: 50px;
+    text-align: center;
+    margin-top: 6%;
+    margin-bottom: 2px;
+    color: rgb(50, 59, 68);
+}
+
+#temp-range {
+    font-size: large;
+    margin-top: 3px;
+}
+
+#taxone-img {
+    width: 300px;
+    height: 260px;
+}
+
+#taxone-img-name {
+    color: rgb(8, 44, 8);
+    font-size: large;
+    margin-top: 3px;
+}
+
+.taxone-section {
+    color: antiquewhite;
+    font-size: 30px;
+    padding: 10px;
+}
+
+#sci-specifications {
+    background-color: #3265d1d6;
+}
+
+#type-species {
+    background-color: #851f1fd6;
+}
+
+#taxon-name {
+    font-size: 25px;
+}
+
+#taxon-name-italic {
+    font-size: 25px;
+    font-style: italic;
+}
+
+#taxon-value {
+    font-size: 25px;
+    color: #3c1d77;
+}
+
+.species-ref {
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#footer-quote {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 100px;
+    text-align: center;
+    background-image: url(https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvZnJhdXR1bW5fZm9yZXN0X3RyZWVfcGFyay1pbWFnZS1reWJlYWRucS5qcGc.jpg);
+    margin-bottom: 0%;
+    padding: 40px;
+    color: #f1f8ff;
+    -webkit-text-stroke: 1.5px black;
 }
